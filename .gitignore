@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+
+# logging
+/logs/**/*
+
+# package lock
+/package-lock.json
+#.env

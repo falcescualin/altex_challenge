@@ -1,0 +1,2 @@
+export const MAX_NUMBER_OF_PRODUCTS = 5;
+export const ACCESS_TOKEN_EXPIRATION_THRESHOLD = "7d";
